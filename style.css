@@ -1,0 +1,17 @@
+body {
+    margin: 0
+}
+
+#main {
+    margin: 0;
+    padding: 1em
+}
+
+footer {
+    background-color: grey;
+    color: white;
+    padding: 2em 1em;
+    width: 100%;
+    position: fixed;
+    bottom: 0
+}
